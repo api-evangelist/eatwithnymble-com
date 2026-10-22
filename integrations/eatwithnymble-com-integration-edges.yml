@@ -1,0 +1,22 @@
+generated: '2026-10-21'
+method: none
+source:
+- https://zapier.com/apps/eatwithnymble-com/integrations
+- https://zapier.com/apps/eatwithnymble/integrations
+- https://zapier.com/apps/posha/integrations
+- https://n8n.io/integrations/eatwithnymble-com/
+- https://n8n.io/integrations/eatwithnymble/
+- https://composio.dev/toolkits/eatwithnymble-com
+- https://monid.ai/tools/eatwithnymble-com
+checked:
+- https://composio.dev/toolkits/eatwithnymble-com
+- https://monid.ai/tools/eatwithnymble-com
+- https://n8n.io/integrations/eatwithnymble-com/
+- https://n8n.io/integrations/eatwithnymble/
+- https://zapier.com/apps/eatwithnymble-com/integrations
+- https://zapier.com/apps/eatwithnymble/integrations
+- https://zapier.com/apps/posha/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
